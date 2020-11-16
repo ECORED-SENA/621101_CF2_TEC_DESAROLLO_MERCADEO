@@ -1,0 +1,85 @@
+include mixins/functions
+
+doctype
+html(lang="es")
+    head
+        include includes/head.pug
+
+
+    body#page-home.theme-dark.page-header-textura
+
+        header#CursoPresentacion.curso-presentacion.page-header
+            .page-textura
+                .container
+
+                    include includes/page-home_topbar.pug
+
+                    +pageHeader("Tema", "assets/images/header/header_media.png", "")   
+
+        section#ResultadosAprendizaje.curso-resultados.section.bg-base-light
+
+            .container
+
+                include includes/page-home_resultados.pug  
+
+        section#IndiceTematico.curso-indice-tematico.section
+
+            .container
+
+                h2 Desarrollo de <br>contenidos
+                .brand-line-primary
+
+                .row.justify-content-center
+                    .col-12.col-sm-10
+                        .card.wow.flipInX(data-wow-delay=".4s")
+                            
+                            .card-body
+
+                                ul.list-group.list-group-flush.list.my-n3.nav-temas
+                                    +navTemaItem('1', 'Modificaciones en el Sistema General de Seguridad Social en Salud.', '#tema1_1')
+                                    +navTemaItem('2', 'Régimen de pagos compartidos y cuotas moderadoras dentro del Sistema General de Seguridad Social en Salud.', '#tema2')
+                                    +navTemaItem('3', 'Disposiciones para el no cobro de copagos a poblaciones especiales en el régimen subsidiado.', '#tema3')
+                                    +navTemaItem('4', 'Exención concurrente del pago de cuotas moderadoras, y copagos por leyes especiales.', '#tema4')
+                                    +navTemaItem('5', 'Plataformas de salud: SISPRO, RUAF, BDUA, PISIS, SISMED, Comprobador de derechos, RIPS, SIVIGILA.', '#tema5')
+                                    +navTemaItem('6', 'Sobre el Sistema Único de Habilitación.', '#tema6')
+                                    +navTemaItem('7', 'Sobre la operatividad del sistema único de acreditación.', '#tema7')
+                                    +navTemaItem('8', 'Como implementar el PAMEC con enfoque en Seguridad del Paciente.  Pamec.', '#tema8')
+                                    +navTemaItem('9', 'Plan de Intervenciones Colectivas – PIC.', '#tema9')
+                                    +navTemaItem('10', 'Servicio al cliente.', '#tema10')
+                                    +navTemaItem('11', 'Satisfacción del cliente.', '#tema11')
+                                    +navTemaItem('12', 'Método proactivo y reactivo.', '#tema12')
+                                    +navTemaItem('13', 'PQRS.', '#tema13')
+                                    +navTemaItem('glosary', 'Glosario', '#glosario')
+                                    +navTemaItem('folder', 'Material complementario', '#anexos')
+                                    +navTemaItem('references', 'Referencias bibliográficas', '#referencias')
+
+
+        section#mainContent         
+            #tema-1
+                include pages/1-tema.pug
+            #tema-2
+                include pages/2-tema.pug
+            #tema-3
+                include pages/3-tema.pug
+                         
+            #glosario
+                include pages/glosario.pug
+            #anexos
+                include pages/material-complementario.pug
+            #referencias
+                include pages/referencias.pug
+
+
+        +creditosFooter("assets/images/logos/senaLogo.svg")
+
+
+        a.scroll-to-top-btn
+            .fa.fa-angle-up.fa-2x
+
+        script(src="assets/js/vendor.js")
+        script(src="js/local.js")
+
+
+
+
+
