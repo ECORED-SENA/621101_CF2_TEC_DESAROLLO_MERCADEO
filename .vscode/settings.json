@@ -1,0 +1,11 @@
+{
+  "editor.fontFamily": "'Fira Code'",
+  "editor.fontLigatures": true,
+  
+
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "eslint.run": "onSave",
+}
