@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       'A través de este componente formativo el aprendiz debe apropiar los elementos de entrada requeridos para la elaboración de la investigación de mercados para su idea de negocio o proyecto productivo. ',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
-    //-fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
   menuPrincipal: {
     menu: [
