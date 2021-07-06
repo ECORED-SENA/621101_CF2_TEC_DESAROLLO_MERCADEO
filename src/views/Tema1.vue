@@ -127,7 +127,7 @@
       br
       |A continuación, en la siguiente tabla se mencionan algunas prácticas No éticas dentro del proceso de investigación de mercados.
     .row.mb-5.justify-content-center
-      .col-10
+      .col-lg-8
         figure.mb-5
           img.mb-3(src='@/assets/curso/img16.svg', alt='Texto que describa la imagen')
     
@@ -226,14 +226,14 @@
               i.fas.fa-angle-right
               | Para evitar el distanciamiento de los encuestados en preguntas directas y comprometidas.
     .row.mb-5.justify-content-center
-      .col-8
+      .col-6
         figure.mb-5
           img.mb-3(src='@/assets/curso/img18.svg', alt='Texto que describa la imagen')
     p.mb-5 José María Sainz (2016) explica la evolución del marketing en el siguiente gráfico en donde inicia con un marketing indiscriminado o de masas que pretende abarcar la totalidad del mercado con las mismas estrategias, pasa a un marketing segmentado dirigido a segmentos estratégicos específicos como el público objetivo o target y finalmente al marketing digital (B2B o B2C), en donde se crea una relación continua con el cliente y la comunicación fluye en ambos sentidos. Teniendo esta evolución una reperEn la investigación cualitativa se emplean métodos de recolección de datos que son no cuantitativos, con el propósito de explorar las relaciones sociales y describir la realidad tal como se experimenta. Requiere un profundo entendimiento del comportamiento humano y las razones que lo gobiernan, podría usarse para examinar las actitudes, sentimientos y motivaciones del usuario.cusión importante en el alcance y contenido del plan de marketing.
     #t_1_2.titulo-segundo
       h2 1.2 Investigación cuantitativa
     .row.mb-5.justify-content-center
-      .col-8
+      .col-6
         figure.mb-5
           img.mb-3(src='@/assets/curso/img19.svg', alt='Texto que describa la imagen')
 
@@ -292,7 +292,7 @@
                 td Comprensivos, holísticos, expansivos
                 td Precisos, limitados, reduccionistas
     .row.mb-5.justify-content-center
-      .col-8
+      .col-6
         figure.mb-5
           img.mb-3(src='@/assets/curso/img20.svg', alt='Texto que describa la imagen')
     p.mb-5 En algunos casos se realiza la investigación mixta que entrelaza a las dos anteriores (cuantitativa y cualitativa) y las mezcla, pero es más que la suma de las dos anteriores e implica su interacción y potenciación. Los métodos mixtos representan un conjunto de procesos sistemáticos, empíricos y críticos de investigación e implican la recolección y el análisis de datos tanto cuantitativos como cualitativos, así como su integración y discusión conjunta, para realizar inferencias producto de toda la información recabada y lograr un mayor entendimiento del fenómeno bajo estudio. (Hernández-Sampieri y Mendoza, 2008). 
@@ -308,7 +308,6 @@
       .col-6
         figure.mb-5
           img.mb-3(src='@/assets/curso/img22.svg', alt='Texto que describa la imagen')
-          figcaption Fuente: Autor
     .cuadros--azul.p-4.mb-3
       h3.text-white.text-center.mb-0 PASOS
     .cuadros--gris.p-5.mb-5 
@@ -317,13 +316,13 @@
           span 1
         p
           b Definir el problema a investigar. 
-          b-none El primer paso en cualquier proyecto de investigación de mercados es definir el problema. Al hacerlo, el investigador debe considerar el propósito del estudio, la información antecedente pertinente, la información que se necesita y la forma en que se utilizará para la toma de decisiones. Supone hablar con quienes toman las decisiones, entrevistas con los expertos del sector, análisis de los datos secundarios y, quizás, alguna investigación exploratoria. Incluye la formulación de un marco de referencia, objetivos, alcance y preguntas de investigación e hipótesis. (Malhotra, 2008).
+          | El primer paso en cualquier proyecto de investigación de mercados es definir el problema. Al hacerlo, el investigador debe considerar el propósito del estudio, la información antecedente pertinente, la información que se necesita y la forma en que se utilizará para la toma de decisiones. Supone hablar con quienes toman las decisiones, entrevistas con los expertos del sector, análisis de los datos secundarios y, quizás, alguna investigación exploratoria. Incluye la formulación de un marco de referencia, objetivos, alcance y preguntas de investigación e hipótesis. (Malhotra, 2008).
       .d-flex
         .lista-ol--cuadro__vineta
           span 2
         p
           b Seleccionar y establecer el diseño de la investigación. 
-          b-none Incluye los siguientes pasos:
+          | Incluye los siguientes pasos:
           br
           br
           ul.lista-ul--color.mb-5.ms-5
@@ -350,19 +349,19 @@
           span 3
         p
           b Recolección de datos y análisis. 
-          b-none La recopilación de datos implica contar con personal o un equipo que opere ya sea en el campo o electrónicamente el desarrollo de la investigación. La selección, capacitación, supervisión y evaluación adecuadas del equipo de campo ayuda a minimizar los errores en la recopilación de datos. La preparación de los datos incluye su revisión, codificación, transcripción y verificación. Cada cuestionario o forma de observación se revisa y se corrige. Se asignan códigos numéricos o letras para representar cada respuesta a cada pregunta del cuestionario. Los datos se procesan y se analizan para la toma de decisiones administrativas. (Malhotra, 2008). 
+          | La recopilación de datos implica contar con personal o un equipo que opere ya sea en el campo o electrónicamente el desarrollo de la investigación. La selección, capacitación, supervisión y evaluación adecuadas del equipo de campo ayuda a minimizar los errores en la recopilación de datos. La preparación de los datos incluye su revisión, codificación, transcripción y verificación. Cada cuestionario o forma de observación se revisa y se corrige. Se asignan códigos numéricos o letras para representar cada respuesta a cada pregunta del cuestionario. Los datos se procesan y se analizan para la toma de decisiones administrativas. (Malhotra, 2008). 
       .d-flex.mb-3
         .lista-ol--cuadro__vineta
           span 4
         p
           b Formular hallazgos. 
-          b-none Todo el proyecto debe documentarse en un informe escrito donde se presenten las preguntas de investigación, el enfoque, el diseño y los procedimientos utilizados para la recopilación y análisis de datos; y donde se incluyan los resultados y los principales resultados. Los hallazgos deben presentarse en un formato comprensible para la toma de decisiones. (Malhotra, 2008). 
+          | Todo el proyecto debe documentarse en un informe escrito donde se presenten las preguntas de investigación, el enfoque, el diseño y los procedimientos utilizados para la recopilación y análisis de datos; y donde se incluyan los resultados y los principales resultados. Los hallazgos deben presentarse en un formato comprensible para la toma de decisiones. (Malhotra, 2008). 
       .d-flex.mb-3
         .lista-ol--cuadro__vineta
           span 5
         p
           b Seguimiento y control de marketing. 
-          b-none  Cuando ya esté lista la Investigación de mercados es necesario realizar seguimiento continuo a la información adquirida para realizar ajustes y modificaciones en los posibles problemas que se presenten.
+          |  Cuando ya esté lista la Investigación de mercados es necesario realizar seguimiento continuo a la información adquirida para realizar ajustes y modificaciones en los posibles problemas que se presenten.
     h5 Definir el problema a investigar
     .row.mb-5.justify-content-center
       .col-5
@@ -411,8 +410,102 @@
             .p-4.py-auto.d-block
               p ¿La imagen proyectada por la empresa es la que los clientes esperan obtener?
     p.mb-5 Al definir el problema a investigar es necesario recopilar la información realizando una investigación exploratoria a continuación McDaniel y Gates (2016) explican el paso a paso:
-    figure.mb-5
-      img.mb-3(src='@/assets/curso/img26.svg', alt='Texto que describa la imagen')
+    TabsB.color-acento-contenido.mb-5
+      .py-4.py-md-5(titulo="Conocer el entorno en la toma de decisiones" :icono="require('@/assets/curso/img84.svg')")
+        .row.justify-content-center
+          .col-md-8.mb-4.mb-md-0
+            h4 Conocer el entorno en la toma de decisiones
+            p Se necesita información contextual adicional para entender plenamente el problema. Esto podría significar hablar simplemente con los gerentes de marca o los gerentes de nuevos productos, leer informes de la compañía, visitar centros de producción y tiendas minoristas y quizá hablar con proveedores. Cuanto mejor conozca el investigador de mercados el entorno de la toma de decisiones, lo que incluye la industria, la empresa, sus productos o servicios y el mercado objetivo, será más probable que el problema se defina correctamente. Este paso puede llamarse realizar un análisis de la situación. La investigación preliminar o exploratoria puede adoptar varias formas: estudios piloto, encuestas de experiencia, análisis de datos secundarios, análisis de casos de estudios piloto y grupos foco. 
+          .col-md-2
+            figure
+              img(src='@/assets/curso/img90.svg', alt='Texto que describa la imagen')
+      .py-4.py-md-5(titulo="Análisis de encuestas de experiencia" :icono="require('@/assets/curso/img85.svg')")
+        .row.justify-content-center
+          .col-md-8.mb-4.mb-md-0
+            h4 Análisis de encuestas de experiencia
+            p Implican hablar con individuos conocedores, tanto dentro como fuera de la organización, que pueden ofrecer discernimientos sobre el problema. El investigador puede tener simplemente una lista de temas por abordar como una conversación informal.
+          .col-md-2
+            figure
+              img(src='@/assets/curso/img91.svg', alt='Texto que describa la imagen')
+      .py-4.py-md-5(titulo="Análisis de datos secundarios" :icono="require('@/assets/curso/img86.svg')")
+        .row.justify-content-center
+          .col-md-8.mb-4.mb-md-0
+            h4 Análisis de datos secundarios
+            p El análisis de datos secundarios es otra forma de investigación exploratoria, los datos secundarios se han recopilado con algún propósito distinto al inmediato. Se puede usar internet para acceder a incontables fuentes de datos secundarios de manera rápida y a un costo mínimo. 
+          .col-md-2
+            figure
+              img(src='@/assets/curso/img92.svg', alt='Texto que describa la imagen')
+      .py-4.py-md-5(titulo="Análisis de casos" :icono="require('@/assets/curso/img87.svg')")
+        .row.justify-content-center
+          .col-md-8.mb-4.mb-md-0
+            h4 Análisis de casos
+            p El análisis de datos secundarios es otra forma de investigación exploratoria, los datos secundarios se han recopilado con algún propósito distinto al inmediato. Se puede usar internet para acceder a incontables fuentes de datos secundarios de manera rápida y a un costo mínimo. 
+          .col-md-2
+            figure
+              img(src='@/assets/curso/img93.svg', alt='Texto que describa la imagen')
+      .py-4.py-md-5(titulo="Grupos de enfoque" :icono="require('@/assets/curso/img88.svg')")
+        .row.justify-content-center
+          .col-md-8.mb-4.mb-md-0
+            h4 Grupos de enfoque
+            p Los grupos de enfoque son conversaciones en profundidad, usualmente compuestas de 8 a 12 participantes, dirigidas por un moderador y generalmente limitadas a un concepto, idea o tema particular. La idea general es hacer que lo que una persona dice genere pensamientos y comentarios de otras, creando de este modo una dinámica de grupos. Es decir, la interacción de las respuestas rendirá más información que si el mismo número de personas hubiera contribuido en entrevistas individuales. 
+          .col-md-2
+            figure
+              img(src='@/assets/curso/img94.svg', alt='Texto que describa la imagen')
+      .py-4.py-md-5(titulo="Uso de intranets" :icono="require('@/assets/curso/img89.svg')")
+        .row.justify-content-center
+          .col-md-8.mb-4.mb-md-0
+            h4 Uso de intranets
+            p El computador puede ser una herramienta muy poderosa en organizaciones muy grandes con intranets, el investigador tiene la capacidad de determinar si información necesaria o relevante.
+          .col-md-2
+            figure
+              img(src='@/assets/curso/img95.svg', alt='Texto que describa la imagen')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     p.mb-5 Uno de los métodos utilizados para definir y formular el problema a investigar que indican las razones que originan la necesidad de investigar, plantean las preguntas destacadas y justifican la necesidad de hacer la investigación es:
     h5 Método del árbol de problemas
     p.mb-5 El árbol de problemas es una técnica que se emplea para identificar una situación negativa (problema central), la cual se intenta solucionar analizando relaciones de tipo causa-efecto. Para ello, se debe formular el problema central de modo tal que permita diferentes alternativas de solución, en lugar de una solución única.
@@ -580,10 +673,10 @@
           span 1
         p
           b Investigación exploratoria: 
-          b-none busca indicios para obtener información, se realiza una Investigación preliminar en la cual se recolecta información primaria y secundaria mediante mecanismos informales y no estructurados.
-            br
-            br
-            |El principal objetivo de la investigación exploratoria consiste en proporcionar una idea preliminar del problema o situación que confronta el investigador. Este tipo de investigación se utiliza normalmente para identificar cursos de acción relevantes, obtener conocimientos adicionales antes de desarrollar un enfoque o definir el problema de forma más precisa. (Rosendo, 2018).
+          | busca indicios para obtener información, se realiza una Investigación preliminar en la cual se recolecta información primaria y secundaria mediante mecanismos informales y no estructurados.
+          br
+          br
+          |El principal objetivo de la investigación exploratoria consiste en proporcionar una idea preliminar del problema o situación que confronta el investigador. Este tipo de investigación se utiliza normalmente para identificar cursos de acción relevantes, obtener conocimientos adicionales antes de desarrollar un enfoque o definir el problema de forma más precisa. (Rosendo, 2018).
     .row.mb-5.justify-content-center
       .col-lg-8
         figure.mb-5
@@ -641,11 +734,11 @@
           span 2
         p
           b Investigación Concluyente:
-          b-none El objetivo de la investigación concluyente es probar hipótesis específicas y examinar relaciones de causa-efecto. Esto requiere que la información necesaria esté claramente especificada. Se basa en grandes muestras representativas, y los datos se analizan normalmente mediante análisis cuantitativos. Los hallazgos se consideran concluyentes por naturaleza y pueden utilizarse para la toma de decisiones gerenciales. (Rosendo, 2018). 
+          | El objetivo de la investigación concluyente es probar hipótesis específicas y examinar relaciones de causa-efecto. Esto requiere que la información necesaria esté claramente especificada. Se basa en grandes muestras representativas, y los datos se analizan normalmente mediante análisis cuantitativos. Los hallazgos se consideran concluyentes por naturaleza y pueden utilizarse para la toma de decisiones gerenciales. (Rosendo, 2018). 
     .row.mb-1.justify-content-center
       .col-lg-10
         .tarjeta-avatar-b.mb-4
-          img(src='@/assets/curso/img33.svg' alt='AvatarTop')
+          img(src='@/assets/curso/img33.svg' alt='AvatarTop').img-top
           .tarjeta.tarjeta--gris
             .p-4.py-auto.d-block
               h6 Descriptiva 
@@ -658,7 +751,7 @@
                 |Consiste en recopilar datos numéricos para responder preguntas de investigación; da respuestas a las preguntas sobre quién, qué, cuándo, dónde y cómo. En marketing, los ejemplos de la información descriptiva incluyen actitudes, intenciones, preferencias, hábitos de compra, evaluación de las estrategias actuales de mezcla de marketing y datos demográficos de los consumidores. (Hair, 2010).
       .col-lg-10
         .tarjeta-avatar-b.mb-4
-          img(src='@/assets/curso/img37.svg' alt='AvatarTop')
+          img(src='@/assets/curso/img37.svg' alt='AvatarTop').img-top
           .tarjeta.tarjeta--gris
             .p-4.py-auto.d-block
               h6 Causal
@@ -672,7 +765,7 @@
 
       .col-lg-10
         .tarjeta-avatar-b.mb-5
-          img(src='@/assets/curso/img38.svg' alt='AvatarTop')
+          img(src='@/assets/curso/img38.svg' alt='AvatarTop').img-top
           .tarjeta.tarjeta--gris
             .p-4.py-auto.d-block
               h6 Sistemática
@@ -985,7 +1078,7 @@
               i.fas.fa-angle-right
               p
                 b Técnica.
-                b-none  La observación puede ser formal o informal, se puede realizar en un mercado real o se realice en un entorno controlado; directa o indirecta según el medio empleado para la captura de información; e incluso consciente o encubierta en función del conocimiento que tenga el observado sobre la situación. En cuanto a los procedimientos de observación, normalmente los segmentamos en humanos o mecánicos (Sarabia Sánchez, 1999). En este primer grupo los observadores son investigadores cualificados y entrenados que observan y registran la información. Y en el segundo grupo encontramos medios como la fotografía, cámaras de vídeo o contadores y células fotoeléctricas o de infrarrojos. Entre los métodos más innovadores podemos destacar los estudios con seguimiento ocular, respuesta galvánica de la piel o análisis facial. Los procedimientos más usuales son los paneles de minoristas, análisis de contenido y análisis histórico. (Dos Santos, 2017). 
+                |  La observación puede ser formal o informal, se puede realizar en un mercado real o se realice en un entorno controlado; directa o indirecta según el medio empleado para la captura de información; e incluso consciente o encubierta en función del conocimiento que tenga el observado sobre la situación. En cuanto a los procedimientos de observación, normalmente los segmentamos en humanos o mecánicos (Sarabia Sánchez, 1999). En este primer grupo los observadores son investigadores cualificados y entrenados que observan y registran la información. Y en el segundo grupo encontramos medios como la fotografía, cámaras de vídeo o contadores y células fotoeléctricas o de infrarrojos. Entre los métodos más innovadores podemos destacar los estudios con seguimiento ocular, respuesta galvánica de la piel o análisis facial. Los procedimientos más usuales son los paneles de minoristas, análisis de contenido y análisis histórico. (Dos Santos, 2017). 
     h5 Grupos focos
     p.mb-5 Un grupo foco o grupo de discusión es una conversación entre varias personas sentados juntos, usualmente en una mesa redonda. Una persona (sea el investigador u otro encargado) juega el papel de moderador, él inicia el debate e interviene periódicamente para mantener la sesión en el tema deseado. El moderador puede cerrar la discusión cuando considere que el tiempo ha terminado y todos los temas hayan sido abordados (Bradley, 2010)
     .row.mb-2.justify-content-center
@@ -995,7 +1088,7 @@
               i.fas.fa-angle-right
               p
                 b Técnica.
-                b-none  Es una entrevista no estructurada y libre a un grupo reducido de personas, por lo general entre seis y diez. La duración puede estar comprendida entre una hora y media, hasta las seis horas. La dinámica es moderada por un investigador capacitado, normalmente psicólogos de profesión. Este trata de fomentar el diálogo con puntos guiados interviniendo lo menos posible, y siempre evitando preguntas directas. Siempre es habitual grabar la dinámica. Entre las aplicaciones se emplea para enfocar políticas de recursos humanos, interpretaciones de marcas, uso de productos, conceptos de nuevos productos, etc. (Dos Santos, 2017). 
+                |  Es una entrevista no estructurada y libre a un grupo reducido de personas, por lo general entre seis y diez. La duración puede estar comprendida entre una hora y media, hasta las seis horas. La dinámica es moderada por un investigador capacitado, normalmente psicólogos de profesión. Este trata de fomentar el diálogo con puntos guiados interviniendo lo menos posible, y siempre evitando preguntas directas. Siempre es habitual grabar la dinámica. Entre las aplicaciones se emplea para enfocar políticas de recursos humanos, interpretaciones de marcas, uso de productos, conceptos de nuevos productos, etc. (Dos Santos, 2017). 
     .row.mb-2.justify-content-center
       .col-lg-8
         figure
@@ -1059,7 +1152,7 @@
               i.fas.fa-angle-right
               p
                 b Técnica.
-                b-none  El investigador se sumerge en un hogar, filial de grupos de empleados, o entre los vendedores de un gran almacén. Es particularmente útil cuando el segmento objetivo no puede verbalizar apropiadamente su necesidad, por ejemplo, el público infantil. (Dos Santos,2017) 
+                |  El investigador se sumerge en un hogar, filial de grupos de empleados, o entre los vendedores de un gran almacén. Es particularmente útil cuando el segmento objetivo no puede verbalizar apropiadamente su necesidad, por ejemplo, el público infantil. (Dos Santos,2017) 
     h5 Entrevista
     .row.mb-2.justify-content-center
       .col-lg-8
@@ -1073,7 +1166,7 @@
               i.fas.fa-angle-right
               p
                 b Técnica.
-                b-none  Se realiza cara a cara entre dos personas, el investigador y el entrevistado. Se asemejan a las entrevistas psicológicas y clínicas, pero con otro propósito. Son habituales en el sector industrial, donde la dispersión y número de clientes no aconsejan otro método. Mediante la entrevista se recoge mejor la motivación del consumidor, es más profunda, novedosa, y subconsciente. la entrevista en profundidad de suele desarrollar en tres etapas. En la primera se realiza una preparación adecuada, no solo de un entorno cuidadosamente elegido y confortable, también por la estructura o guion. En esta fase reclutamos a los individuos cuidando que no conozcan el propósito de la entrevista con antelación para que no puedan prepararlo. La segunda fase, la entrevista, comienza con un saludo inicial y se explica el propósito de la entrevista. Se detalla el procedimiento y el proceso. La idea es crear un ambiente relajado y cómodo para expresar opiniones. Se valora la espontaneidad y la creatividad. Es conveniente grabar la conversación para no perder tiempo en anotar todo. La tercera parte de la entrevista se reserva al análisis y la interpretación. (Dos Santos, 2017).
+                |  Se realiza cara a cara entre dos personas, el investigador y el entrevistado. Se asemejan a las entrevistas psicológicas y clínicas, pero con otro propósito. Son habituales en el sector industrial, donde la dispersión y número de clientes no aconsejan otro método. Mediante la entrevista se recoge mejor la motivación del consumidor, es más profunda, novedosa, y subconsciente. la entrevista en profundidad de suele desarrollar en tres etapas. En la primera se realiza una preparación adecuada, no solo de un entorno cuidadosamente elegido y confortable, también por la estructura o guion. En esta fase reclutamos a los individuos cuidando que no conozcan el propósito de la entrevista con antelación para que no puedan prepararlo. La segunda fase, la entrevista, comienza con un saludo inicial y se explica el propósito de la entrevista. Se detalla el procedimiento y el proceso. La idea es crear un ambiente relajado y cómodo para expresar opiniones. Se valora la espontaneidad y la creatividad. Es conveniente grabar la conversación para no perder tiempo en anotar todo. La tercera parte de la entrevista se reserva al análisis y la interpretación. (Dos Santos, 2017).
     p.mb-5 Para la investigación cuantitativa se utiliza la encuesta como técnica de recolección de información.    
     .row.mb-5.justify-content-center
       .col-lg-8
@@ -1087,7 +1180,7 @@
               i.fas.fa-angle-right
               p
                 b Encuesta.
-                b-none Se usa para describir un método de obtener información de una muestra de individuos. Esta “muestra” es usualmente sólo una fracción de la población bajo estudio. Las encuestas tienen una gran variedad de propósitos, y se pueden conducir de muchas maneras, incluyendo por encuestas personales, telefónicas o vía web.
+                | Se usa para describir un método de obtener información de una muestra de individuos. Esta “muestra” es usualmente sólo una fracción de la población bajo estudio. Las encuestas tienen una gran variedad de propósitos, y se pueden conducir de muchas maneras, incluyendo por encuestas personales, telefónicas o vía web.
     .row.mb-2.justify-content-center
       .col-lg-12
         figure
