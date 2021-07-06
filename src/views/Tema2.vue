@@ -81,37 +81,37 @@
               span 1
             p
               b Elemento:
-              b-none es quien se observa, se mide o a quien corresponde la información. Ej. Detergente marca Ariel presentación: granulado, barra, liquido.
+              | es quien se observa, se mide o a quien corresponde la información. Ej. Detergente marca Ariel presentación: granulado, barra, liquido.
           li 
             .lista-ol--cuadro__vineta.mb-4
               span 2
             p
               b Unidad muestral:
-              b-none colección de elementos con características homogéneas. Ej. Supermercados, bodegas, despensas, tiendas, fabricas, hogares.
+              | colección de elementos con características homogéneas. Ej. Supermercados, bodegas, despensas, tiendas, fabricas, hogares.
           li 
             .lista-ol--cuadro__vineta.mb-4
               span 3
             p
               b Alcance:
-              b-none  área o espacio geográfico que abarca la investigación: país, departamento, municipio, barrio, localidad. Ej. País: Colombia, departamento: Santander, ciudad: Bucaramanga, barrio: centro 
+              |  área o espacio geográfico que abarca la investigación: país, departamento, municipio, barrio, localidad. Ej. País: Colombia, departamento: Santander, ciudad: Bucaramanga, barrio: centro 
           li 
             .lista-ol--cuadro__vineta.mb-4
               span 4
             p
               b Tiempo:
-              b-none época o fecha en la que se realiza la investigación. Ej. Un mes (marzo). 
+              | época o fecha en la que se realiza la investigación. Ej. Un mes (marzo). 
           li 
             .lista-ol--cuadro__vineta.mb-4
               span 5
             p
               b Variable:
-              b-none lo que se va a estudiar del elemento. Ej. Ventas (unidades, pesos, gramos).
+              | lo que se va a estudiar del elemento. Ej. Ventas (unidades, pesos, gramos).
           li 
             .lista-ol--cuadro__vineta.mb-4
               span 6
             p
               b Marco muestral:
-              b-none listado de unidades muéstrales que conforman la población estudio. Ej. Listado de supermercados Éxito.
+              | listado de unidades muéstrales que conforman la población estudio. Ej. Listado de supermercados Éxito.
     p.mb-5 Luego de definir cada uno de los ítems anteriores se realiza un resumen para obtener la población estudio. 
     .row.mb-5.justify-content-center
       .col-lg-10
@@ -317,10 +317,10 @@
       h2 2.4 Frecuencia
     p.mb-5 
       b Frecuencia. 
-      b-none Los datos se clasifican y ordenan de acuerdo a ciertas características cualitativas o cuantitativas indicando el número de veces que se repiten los valores, (MartínezB,2011). Si se da en números absolutos es frecuencia absoluta y en porcentajes es frecuencia relativa.
+      | Los datos se clasifican y ordenan de acuerdo a ciertas características cualitativas o cuantitativas indicando el número de veces que se repiten los valores, (MartínezB,2011). Si se da en números absolutos es frecuencia absoluta y en porcentajes es frecuencia relativa.
     p.mb-5 
       b Frecuencia relativa. 
-      b-none La frecuencia relativa de una clasificación es el número de veces que una observación cae sobre la clasificación, la cual está representada como una proporción del número total de observaciones. Por esta razón, la frecuencia relativa se expresa en fracciones, decimales o porcentajes, (Domínguez,2015).
+      | La frecuencia relativa de una clasificación es el número de veces que una observación cae sobre la clasificación, la cual está representada como una proporción del número total de observaciones. Por esta razón, la frecuencia relativa se expresa en fracciones, decimales o porcentajes, (Domínguez,2015).
       br
       br
       |El cálculo de la frecuencia relativa se obtiene empleando la expresión, en donde n es el número total de datos. 
@@ -336,11 +336,11 @@
                 b n
     p.mb-5 
       b Frecuencia relativa acumulada. 
-      b-none Lafrecuencia relativa acumulada de una clase Ci es la suma de las frecuencias relativas de todas las clases anteriores a Ci. Ésta se expresa como fracción, decimal o porcentaje. (Domínguez,2015)
+      | Lafrecuencia relativa acumulada de una clase Ci es la suma de las frecuencias relativas de todas las clases anteriores a Ci. Ésta se expresa como fracción, decimal o porcentaje. (Domínguez,2015)
       br
       br
       b Intervalos. 
-      b-none La variable es continua todos sus valores se agrupan, dividiendo el espacio entre valores límites. 
+      | La variable es continua todos sus valores se agrupan, dividiendo el espacio entre valores límites. 
       br
       br
       |En la siguiente tabla se explica numéricamente la frecuencia.
@@ -484,19 +484,19 @@
               span 1
             p
               b Graficas lineales.
-              b-none Son una de las formas de gráficas más simples. Son particularmente útiles para presentar medidas en el curso del tiempo. 
+              | Son una de las formas de gráficas más simples. Son particularmente útiles para presentar medidas en el curso del tiempo. 
           li 
             .lista-ol--cuadro__vineta.mb-4
               span 2
             p
               b Graficas circulares.
-              b-none  Muestran la parte o porcentaje que representa cada clase del total de número de frecuencia. (Lind,2015). Son apropiadas para presentar resultados en una extensa gama de situaciones.
+              |  Muestran la parte o porcentaje que representa cada clase del total de número de frecuencia. (Lind,2015). Son apropiadas para presentar resultados en una extensa gama de situaciones.
           li 
             .lista-ol--cuadro__vineta.mb-4
               span 3
             p
               b Histograma o graficas de barras.
-              b-none gráfica en la que las clases se señalan en el eje horizontal y las frecuencias de clase, en el eje vertical. Las frecuencias de clase se representan por medio de las alturas de barras, que se dibujan de manera adyacente. (Lind,2015) Existen varios tipos de gráficas de barras: simple, agrupadas, apiladas y tridimensional de filas múltiples.
+              | gráfica en la que las clases se señalan en el eje horizontal y las frecuencias de clase, en el eje vertical. Las frecuencias de clase se representan por medio de las alturas de barras, que se dibujan de manera adyacente. (Lind,2015) Existen varios tipos de gráficas de barras: simple, agrupadas, apiladas y tridimensional de filas múltiples.
     #t_2_8.titulo-segundo
       h2 2.8 Tablas
     p.mb-5 En la estadística se utilizan diferentes tablas para representar la información, las principales son las tablas de frecuencia que para (Lind, 2015), son una agrupación de datos cualitativos en clases mutuamente excluyentes y colectivamente exhaustivas que muestra el número de observaciones de cada clase.
@@ -579,7 +579,7 @@
       |Las medidas de tendencia central son puntos en una distribución obtenida, los valores medios o centrales de ésta, y nos ayudan a ubicarla dentro de la escala de medición. Las principales medidas de tendencia central son: moda, mediana y media, (Hernández et al., 2014)
     p.mb-5 
       b Moda. 
-      b-none es la categoría o puntuación que ocurre con mayor frecuencia. (Hernández et al., 2014) 
+      | es la categoría o puntuación que ocurre con mayor frecuencia. (Hernández et al., 2014) 
 
       
       |Definida como aquel valor de la variable que más se repite, es decir que tiene la máxima frecuencia de la distribución. 
@@ -596,7 +596,7 @@
       |Si hay más modas se denomina Multimodal
     p.mb-5 
       b Media. 
-      b-none es el valor que divide la distribución por la mitad. Esto es, la mitad de los casos caen por debajo de la mediana y la otra mitad se ubica por encima de ésta. La mediana refleja la posición intermedia de la distribución (Hernández et al., 2014)
+      | es el valor que divide la distribución por la mitad. Esto es, la mitad de los casos caen por debajo de la mediana y la otra mitad se ubica por encima de ésta. La mediana refleja la posición intermedia de la distribución (Hernández et al., 2014)
       br
       br
       |Es el valor central, ya sea mediante la observación directa de los datos o a través de la aplicación de la fórmula que determina la posición en donde se encuentra la mediana:
@@ -646,29 +646,29 @@
                 b 9
     p.mb-5 
       b Mediana. 	
-      b-none es el valor que divide la distribución por la mitad. Esto es, la mitad de los casos caen por debajo de la mediana y la otra mitad se ubica por encima de ésta. La mediana refleja la posición intermedia de la distribución (Hernández et al., 2014)
-        br
-        br
-        |Es el valor central, ya sea mediante la observación directa de los datos o a través de la aplicación de la fórmula que determina la posición en donde se encuentra la mediana:
-        br
-        br
-        |((n+1))/2  , donde n corresponde al número de datos.
-        br
-        br
-        |Si el número de datos es impar dará en el medio y si es par se suman los 2 datos y se dividen en 2
-        br
-        br
-        |Consideremos los datos 5, 6, 6, 8, 10
-        br
-        br
-        |Al realizar la formula (5+1) / 2 se determina que la posición que ocupa la mediana es 3 entonces la mediana es me=6
+      | es el valor que divide la distribución por la mitad. Esto es, la mitad de los casos caen por debajo de la mediana y la otra mitad se ubica por encima de ésta. La mediana refleja la posición intermedia de la distribución (Hernández et al., 2014)
+      br
+      br
+      |Es el valor central, ya sea mediante la observación directa de los datos o a través de la aplicación de la fórmula que determina la posición en donde se encuentra la mediana:
+      br
+      br
+      |((n+1))/2  , donde n corresponde al número de datos.
+      br
+      br
+      |Si el número de datos es impar dará en el medio y si es par se suman los 2 datos y se dividen en 2
+      br
+      br
+      |Consideremos los datos 5, 6, 6, 8, 10
+      br
+      br
+      |Al realizar la formula (5+1) / 2 se determina que la posición que ocupa la mediana es 3 entonces la mediana es me=6
     #t_2_10.titulo-segundo
       h2 2.10 Desviaciones
     p.mb-5 Las medidas de dispersión son los siguientes:
       br
       br
       b Varianza. 
-      b-none Media aritmética de los valores absolutos de las desviaciones con respecto a la media aritmética. (Lind,2015)
+      | Media aritmética de los valores absolutos de las desviaciones con respecto a la media aritmética. (Lind,2015)
       br
       br
       |En datos no agrupados se tiene en cuenta la siguiente formula:
@@ -684,7 +684,7 @@
                 b N
     p.mb-5 
       b Desviación estándar. 
-      b-none Esta medida se expresa en las unidades originales de medición de la distribución, y se interpreta en relación con la media. Cuanto mayor sea la dispersión de los datos alrededor de la media, mayor será la desviación estándar. O, dicho de otra manera, la desviación estándar es el promedio o variación esperada en relación con la media aritmética (Benassini, 2009; Hernández et al., 2014; Malhotra, 2008).
+      | Esta medida se expresa en las unidades originales de medición de la distribución, y se interpreta en relación con la media. Cuanto mayor sea la dispersión de los datos alrededor de la media, mayor será la desviación estándar. O, dicho de otra manera, la desviación estándar es el promedio o variación esperada en relación con la media aritmética (Benassini, 2009; Hernández et al., 2014; Malhotra, 2008).
       br
       br
       |Para la fórmula es necesario sacarle la raíz cuadrada a la varianza.
