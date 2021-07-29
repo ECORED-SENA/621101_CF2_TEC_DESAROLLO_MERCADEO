@@ -20,7 +20,7 @@
           span - Jorge Eliécer Prieto Herrera (2013).
     figure.mb-5
       img(src='@/assets/curso/img1.jpg', alt='Texto que describa la imagen')
-    p.mb-5 La American Marketing Association (AMA, 2004), define la investigación de mercados como la información utilizada para identificar y definir las oportunidades y los problemas de comercialización; generar, refinar y evaluar las acciones de marketing; monitorear el desempeño de la comercialización; y mejorar la comprensión de la comercialización como un proceso. La investigación de mercados especifica la información necesaria para abordar estas cuestiones, diseña el método de recogida de información, administra e implementa el proceso de recogida de datos, analiza los resultados y los comunica junto con sus implicaciones.
+    p.mb-5 La American <i>Marketing</i> Association (AMA, 2004), define la investigación de mercados como la información utilizada para identificar y definir las oportunidades y los problemas de comercialización; generar, refinar y evaluar las acciones de <i>marketing</i>; monitorear el desempeño de la comercialización; y mejorar la comprensión de la comercialización como un proceso. La investigación de mercados especifica la información necesaria para abordar estas cuestiones, diseña el método de recogida de información, administra e implementa el proceso de recogida de datos, analiza los resultados y los comunica junto con sus implicaciones.
       br
       br
       |Para Mahotra (2008) la investigación de mercados es la identificación, recopilación, análisis, difusión y uso sistemático y objetivo de la información con el propósito de mejorar la toma de decisiones relacionadas con la identificación y solución de problemas y oportunidades de mercadotecnia.
@@ -42,7 +42,7 @@
           img(src='@/assets/curso/img3.svg' alt='AvatarTop')
           .tarjeta.tarjeta--gris
             .p-4.py-5
-              p Ayuda en la integración del marketing mix
+              p Ayuda en la integración del <i>marketing</i> mix
     .row.mb-1.justify-content-center
       .col-lg-5
         .tarjeta-avatar-b.mb-5
@@ -184,7 +184,7 @@
           img(src='@/assets/curso/img2.svg' alt='AvatarTop')
           .tarjeta.color-gris
             .p-5
-              p Uno de sus inconvenientes es que los éxitos y fracasos de marketing se basan en pequeñas diferencias en actitudes u opiniones sobre una mezcla de marketing y no es tan notoria.  
+              p Uno de sus inconvenientes es que los éxitos y fracasos de <i>marketing</i> se basan en pequeñas diferencias en actitudes u opiniones sobre una mezcla de <i>marketing</i> y no es tan notoria.  
       .col-4
         .tarjeta-avatar
           img(src='@/assets/curso/img3.svg' alt='AvatarTop')
@@ -229,7 +229,7 @@
       .col-6
         figure.mb-5
           img.mb-3(src='@/assets/curso/img18.svg', alt='Texto que describa la imagen')
-    p.mb-5 José María Sainz (2016) explica la evolución del marketing en el siguiente gráfico en donde inicia con un marketing indiscriminado o de masas que pretende abarcar la totalidad del mercado con las mismas estrategias, pasa a un marketing segmentado dirigido a segmentos estratégicos específicos como el público objetivo o target y finalmente al marketing digital (B2B o B2C), en donde se crea una relación continua con el cliente y la comunicación fluye en ambos sentidos. Teniendo esta evolución una reperEn la investigación cualitativa se emplean métodos de recolección de datos que son no cuantitativos, con el propósito de explorar las relaciones sociales y describir la realidad tal como se experimenta. Requiere un profundo entendimiento del comportamiento humano y las razones que lo gobiernan, podría usarse para examinar las actitudes, sentimientos y motivaciones del usuario.cusión importante en el alcance y contenido del plan de marketing.
+    p.mb-5 En la investigación cualitativa se emplean métodos de recolección de datos que son no cuantitativos, con el propósito de explorar las relaciones sociales y describir la realidad tal como se experimenta. Requiere un profundo entendimiento del comportamiento humano y las razones que lo gobiernan, podría usarse para examinar las actitudes, sentimientos y motivaciones del usuario.
     #t_1_2.titulo-segundo
       h2 1.2 Investigación cuantitativa
     .row.mb-5.justify-content-center
@@ -240,7 +240,7 @@
     p.mb-5 La investigación cuantitativa es diseñada para recopilar información de muestras estadísticamente representativas de una población objetivo y es usualmente llevada a cabo entre varios cientos, a veces miles de encuestados, por esta razón la información es generalmente obtenida usando cuestionarios de estructura estandarizada. Este tipo de información es analizada con procesos estadísticos (Palmer, 2012)
       br
       br
-      |Una investigación cuantitativa se hace necesaria cuando los objetivos planteados están orientados a encontrar cifras, cuantificar intenciones y formas de proceder, establecer proporciones, diferencias e importancia relativa de los factores evaluados. esta investigación requiere el proceso de muestreo y el soporte de la estadística para buscar información representativa y suficiente del mercado en estudio. (Martinez,2011)
+      |Una investigación cuantitativa se hace necesaria cuando los objetivos planteados están orientados a encontrar cifras, cuantificar intenciones y formas de proceder, establecer proporciones, diferencias e importancia relativa de los factores evaluados. esta investigación requiere el proceso de muestreo y el soporte de la estadística para buscar información representativa y suficiente del mercado en estudio. (Martinez, 2011)
       br
       br
       |Permite examinar los datos de manera numérica, especialmente en el campo de la estadística. Se requiere que entre los elementos del problema de investigación exista una relación cuya naturaleza sea lineal, que sea posible definirlo, limitarlo y saber hacia dónde dirige.
@@ -360,7 +360,7 @@
         .lista-ol--cuadro__vineta
           span 5
         p
-          b Seguimiento y control de marketing. 
+          b Seguimiento y control de <i>marketing</i>. 
           |  Cuando ya esté lista la Investigación de mercados es necesario realizar seguimiento continuo a la información adquirida para realizar ajustes y modificaciones en los posibles problemas que se presenten.
     h5 Definir el problema a investigar
     .row.mb-5.justify-content-center
@@ -733,7 +733,7 @@
         .lista-ol--cuadro__vineta
           span 2
         p
-          b Investigación Concluyente:
+          b Investigación Concluyente: 
           | El objetivo de la investigación concluyente es probar hipótesis específicas y examinar relaciones de causa-efecto. Esto requiere que la información necesaria esté claramente especificada. Se basa en grandes muestras representativas, y los datos se analizan normalmente mediante análisis cuantitativos. Los hallazgos se consideran concluyentes por naturaleza y pueden utilizarse para la toma de decisiones gerenciales. (Rosendo, 2018). 
     .row.mb-1.justify-content-center
       .col-lg-10
@@ -742,13 +742,13 @@
           .tarjeta.tarjeta--gris
             .p-4.py-auto.d-block
               h6 Descriptiva 
-              p Etapa que busca describir los problemas o indicios con mayor detalle, cuantificando el conjunto de métodos y procedimientos que describen a las variables de marketing.
+              p Etapa que busca describir los problemas o indicios con mayor detalle, cuantificando el conjunto de métodos y procedimientos que describen a las variables de <i>marketing</i>.
                 br
                 br
                 |Es aquella que busca una representación gráfica de características y fenómenos del mercado y la determinación de la frecuencia con que se usan, tratando de hacer predicciones y determinar el grado de asociación entre sus variables, tal como ocurre en los estudios de perfil de consumidores, potencial del mercado y utilización de un producto seccionado. Las fuentes de datos más usadas en este tipo de investigación son el cuestionario a personas seleccionadas, los datos secundarios y la simulación de escenarios. (Prieto, 2013).
                 br
                 br
-                |Consiste en recopilar datos numéricos para responder preguntas de investigación; da respuestas a las preguntas sobre quién, qué, cuándo, dónde y cómo. En marketing, los ejemplos de la información descriptiva incluyen actitudes, intenciones, preferencias, hábitos de compra, evaluación de las estrategias actuales de mezcla de marketing y datos demográficos de los consumidores. (Hair, 2010).
+                |Consiste en recopilar datos numéricos para responder preguntas de investigación; da respuestas a las preguntas sobre quién, qué, cuándo, dónde y cómo. En <i>marketing</i>, los ejemplos de la información descriptiva incluyen actitudes, intenciones, preferencias, hábitos de compra, evaluación de las estrategias actuales de mezcla de <i>marketing</i> y datos demográficos de los consumidores. (Hair, 2010).
       .col-lg-10
         .tarjeta-avatar-b.mb-4
           img(src='@/assets/curso/img37.svg' alt='AvatarTop').img-top
@@ -1179,8 +1179,8 @@
             li 
               i.fas.fa-angle-right
               p
-                b Encuesta.
-                | Se usa para describir un método de obtener información de una muestra de individuos. Esta “muestra” es usualmente sólo una fracción de la población bajo estudio. Las encuestas tienen una gran variedad de propósitos, y se pueden conducir de muchas maneras, incluyendo por encuestas personales, telefónicas o vía web.
+                b Encuesta: 
+                | se usa para describir un método de obtener información de una muestra de individuos. Esta “muestra” es usualmente sólo una fracción de la población bajo estudio. Las encuestas tienen una gran variedad de propósitos, y se pueden conducir de muchas maneras, incluyendo por encuestas personales, telefónicas o vía web.
     .row.mb-2.justify-content-center
       .col-lg-12
         figure
@@ -1496,7 +1496,7 @@
           figcaption Fuente: Autor
     p.mb-5 Un informe es completo cuando ofrece al lector toda la información que necesita en un lenguaje claro y conciso, no necesita estar sobrecargado con detalles sin importancia, debe enfocarse en los puntos principales de la investigación e incluir la información adicional, si es necesario, en los apéndices. Los directivos, normalmente, no tienen tiempo para leer páginas y páginas de información, necesitan informes que contengan la información requerida sin ser demasiado extensos. Un informe es preciso cuando la información que contiene es exacta. Es muy importante verificar la exactitud del informe antes de que se distribuya, de lo contrario podría conducir a decisiones directivas erróneas. Siempre es una buena idea escribir una versión preliminar y verificar todos los detalles a fondo. Un informe es claro cuando sigue una secuencia lógica de pensamiento, la redacción es precisa y fluida y está bien estructurado. (Rosendo, 2018).
     h5 Seguimiento y control
-    p.mb-5 Para Malhotra (2008), el investigador debe ayudar al cliente a entender ya que es posible que surjan muchas preguntas, luego puede contribuir a poner en práctica los hallazgos en la selección de una agencia de publicidad, un nuevo producto o incluso una política de precios, es importante que el proyecto de investigación de mercados forme parte de un sistema de información de marketing SIM. 
+    p.mb-5 Para Malhotra (2008), el investigador debe ayudar al cliente a entender ya que es posible que surjan muchas preguntas, luego puede contribuir a poner en práctica los hallazgos en la selección de una agencia de publicidad, un nuevo producto o incluso una política de precios, es importante que el proyecto de investigación de mercados forme parte de un sistema de información de <i>marketing</i> SIM. 
       br
       br
       |Es necesario evaluar todo el proyecto de investigación de mercados de forma crítica para obtener nuevas ideas y conocimiento. A continuación, se presentan unas preguntas que podrán ayudar en la evaluación. 
